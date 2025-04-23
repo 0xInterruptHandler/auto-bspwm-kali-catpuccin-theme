@@ -3,12 +3,12 @@ Bash scripts that automates the setup for Kali Linux using the window manager "b
 
 ## Images
 
-![alt text](screenshots-readme\1.png)
-![alt text](screenshots-readme\2.png)
-![alt text](screenshots-readme\3.png)
-![alt text](screenshots-readme\4.png)
-![alt text](screenshots-readme\5.png)
-![alt text](screenshots-readme\6.png)
+![alt text](screenshots-readme/1.png)
+![alt text](screenshots-readme/2.png)
+![alt text](screenshots-readme/3.png)
+![alt text](screenshots-readme/4.png)
+![alt text](screenshots-readme/5.png)
+![alt text](screenshots-readme/6.png)
  
 ## Software
 This configuration uses the following software:
