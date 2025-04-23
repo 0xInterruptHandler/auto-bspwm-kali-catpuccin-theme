@@ -9,7 +9,14 @@ Bash scripts that automates the setup for Kali Linux using the window manager "b
 ![alt text](screenshots-readme/4.png)
 ![alt text](screenshots-readme/5.png)
 ![alt text](screenshots-readme/6.png)
- 
+
+## Quick usage
+```
+sudo apt-get update -y
+./minimal-install.sh
+
+```
+
 ## Software
 This configuration uses the following software:
 - **WM**: [bspwm](https://github.com/baskerville/bspwm)
